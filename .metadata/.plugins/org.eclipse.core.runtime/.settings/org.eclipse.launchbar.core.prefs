@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01 Debug,org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sahx0628_l01/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

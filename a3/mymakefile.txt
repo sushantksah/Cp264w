@@ -1,0 +1,14 @@
+myword.exe : mystring.o myword.o myword_ptest.c
+	gcc mystring.o myword.o myword_ptest.c -o myword.exe
+
+myword.o : myword.h myword.c
+	gcc -c myword.c -o myword.o
+
+mystring.o : mystring.h mystring.c
+	gcc -c mystring.c -o mystring.o
+
+run: myword
+	myword.exe
+	
+clean :
+	rm myword.exe mystring.o myword.o

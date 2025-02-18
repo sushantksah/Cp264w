@@ -1,0 +1,20 @@
+13:57:53 **** Build of configuration Release for project sahx0628_l01 ****
+make all 
+Building file: ../main.c
+Invoking: GCC C Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.c"
+Finished building: ../main.c
+ 
+Building file: ../parameters.c
+Invoking: GCC C Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"parameters.d" -MT"parameters.o" -o "parameters.o" "../parameters.c"
+Finished building: ../parameters.c
+ 
+Building target: sahx0628_l01
+Invoking: MacOS X C Linker
+gcc  -o "sahx0628_l01"  ./main.o ./parameters.o   
+Finished building target: sahx0628_l01
+ 
+
+13:57:54 Build Finished. 0 errors, 0 warnings. (took 891ms)
+

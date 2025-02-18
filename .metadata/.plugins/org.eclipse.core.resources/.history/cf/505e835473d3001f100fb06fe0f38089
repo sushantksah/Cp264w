@@ -1,0 +1,27 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 1 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2025-01-05
+ *
+ * -------------------------------------
+ */
+Results:
+
+Test 1: No Parameter String
+
+Test 2: A 1 "some strings"
+Program Parameters:
+
+  argc: 4
+
+  argv[0] = "/Users/sushantksah/Documents/cp264/sahx0628_l01/Debug/sahx0628_l01"
+  argv[1] = "A"
+  argv[2] = "1"
+  argv[3] = "some strings"
+
+Test 3: B 2 some strings
+
