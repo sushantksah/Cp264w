@@ -1,0 +1,15 @@
+﻿.daylight .d2l-grades-individualcommentlabelcontainer {
+	padding-left: 0;
+	margin-bottom: 0;
+	padding-bottom: 0.5rem;
+}
+
+.daylight .d2l-grades-individualcommentlabelcontainer .d2l-htmlblock p {
+	margin-bottom: 0 !important;
+}
+
+.daylight .feedback-container .name {
+	font-weight: bold;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
